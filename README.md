@@ -1,10 +1,5 @@
 # Person ReID & Multi-Camera Tracking System
 
-## dev/creator = tubakhxn
-
----
-
-## What is this project?
 This project is a **Person Re-Identification (ReID) and Multi-Camera Tracking System**. It tracks people across multiple video feeds, assigning consistent global IDs to individuals as they move between different camera views. The system uses deep learning for person detection (YOLOv8), feature extraction (ResNet18), and cross-camera identity matching, enabling robust tracking in surveillance, retail analytics, and smart environments.
 
 ### Key Features
@@ -13,8 +8,6 @@ This project is a **Person Re-Identification (ReID) and Multi-Camera Tracking Sy
 - Generates heatmaps and trajectory visualizations
 - Entry/exit counting and dwell time estimation
 - Outputs annotated video files for each camera
-
----
 
 ## How to fork this project
 1. **Download or clone the repository** to your local machine.
@@ -28,8 +21,6 @@ This project is a **Person Re-Identification (ReID) and Multi-Camera Tracking Sy
    python "Reid multicam.py" --cams cam1.mp4 cam2.mp4 --width 640 --threshold 0.65
    ```
 
----
-
 ## Relevant Wikipedia Links
 - [Person re-identification](https://en.wikipedia.org/wiki/Person_re-identification)
 - [Object tracking](https://en.wikipedia.org/wiki/Object_tracking)
@@ -37,6 +28,13 @@ This project is a **Person Re-Identification (ReID) and Multi-Camera Tracking Sy
 - [ResNet](https://en.wikipedia.org/wiki/Residual_neural_network)
 - [Multi-camera tracking](https://en.wikipedia.org/wiki/Multiple_camera_tracking)
 
----
+## 👤 Author
 
-For any questions or contributions, please contact the creator.
+**HOSEN ARAFAT**  
+
+**Bachelor of Software Engineering, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Research Interest: Image Computing and Perceptual Intelligence**
+
